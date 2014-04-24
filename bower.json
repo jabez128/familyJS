@@ -1,0 +1,26 @@
+{
+  "name": "familyJS",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jabez128/familyJS",
+  "authors": [
+    "jabez zhang <angularzhang@163.com>"
+  ],
+  "description": "A simple and decent JavaScript loader",
+  "main": "familyJs.js",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "amd",
+    "loader"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
