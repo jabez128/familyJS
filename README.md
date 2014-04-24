@@ -1,7 +1,7 @@
-#What  
+#familyJS -- A simple and dencent JavaScript library
 
-FamilyJS is a simple and decent JavaScript loader library.It just like RequireJS.
+![](./assets/logo.jpg)
 
-#How
+
 
 
